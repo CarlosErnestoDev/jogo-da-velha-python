@@ -29,5 +29,5 @@ Digite o número da posição desejada quando solicitado.
 - [ ] Implementar IA usando o algoritmo Minimax
 - [ ] Adicionar interface gráfica
 
-## 👤 Autor
-Carlos Ernesto
+# 👤 Autor
+Carlos Ernesto Melo de Araújo
