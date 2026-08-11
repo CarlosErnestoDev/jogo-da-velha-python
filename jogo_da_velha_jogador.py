@@ -4,7 +4,7 @@
 def mostrar_tabuleiro(tab):
     for i in range(0, 9, 3):  # pula de 3 em 3: início de cada linha (0, 3, 6)
         print(f"{tab[i]} / {tab[i+1]} / {tab[i+2]}") # imprime as 3 posições daquela linha
-        if i < 6: # não imprime divi´soria depois da ùltima linha
+        if i < 6: # não imprime divisória depois da última linha
             print("---+---+---")
 
 
